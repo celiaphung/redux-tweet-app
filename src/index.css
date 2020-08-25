@@ -94,15 +94,16 @@ li {
 /* Hacky but less typing in the video */
 .tweet-info > div > span:first-child {
   font-weight: bold;
-  margin-right: 5px;
+  margin-right: 10px;
 }
 .tweet-info > div > span:nth-child(2) {
-  color: #969696;
-  font-size: 16px;
+  color: #697784;
+  font-size: 20px;
+  margin: 0 10px 0;
 }
 .tweet-info > div > div {
-  color: #969696;
-  font-size: 15px;
+  color: #697784;
+  font-size: 18px;
 }
 .tweet-info > div > p {
   font-size: 18px;
@@ -118,7 +119,7 @@ li {
   font-size: 18px !important;
 }
 .tweet-icon {
-  font-size: 27px;
+  font-size: 25px;
   color: #697784;
 }
 .tweet-icon:hover {
